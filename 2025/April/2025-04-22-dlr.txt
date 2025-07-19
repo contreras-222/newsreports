@@ -1,0 +1,939 @@
+2025-04-22 -> Daily Legislative Report
+*** American Legislation and stuff ***
+
+
+POTUSTRACKER
+>Honoring the Memory of His Holiness Pope Francis
+
+>This executive order establishes a national observance in honor of His Holiness Pope Francis following his passing. It mandates that the United States flag be flown at half-staff at the White House, public buildings, military posts, and all federal properties both domestically and abroad until sunset on the day of his interment. This act of remembrance is extended to embassies, legations, consulates, and military facilities, reflecting a gesture of respect and acknowledgment for his contributions and leadership.
+
+>Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Internal Revenue Service relating to "Gross Proceeds Reporting by Brokers That Regularly Provide Services Effectuating Digital Asset Sales". (HJRES.25)
+
+>Restoring American Seafood Competitiveness
+
+>This executive order aims to enhance the competitiveness of American seafood by addressing regulatory burdens, promoting ethical sourcing, and combating unfair trade practices. It identifies overregulation as a barrier to the productive harvest of U.S. seafood and highlights the need for modernizing data collection and fisheries management. The order mandates the Secretary of Commerce to collaborate with various stakeholders to streamline regulations and develop strategies that bolster domestic fishing, improve supply chain integrity, and ensure adherence to international standards.
+
+>250th Anniversary of the Battles of Lexington and Concord
+
+>This presidential proclamation commemorates the 250th anniversary of the Battles of Lexington and Concord, which marked the beginning of the American Revolutionary War on April 19, 1775. It honors the sacrifices made by American patriots and highlights the significance of these battles in the fight for independence from British rule. The proclamation calls upon citizens to reflect on the courage and resolve of those who fought for self-governance, serving as a reminder of the foundational values of the nation as it approaches the upcoming anniversary of its independence.
+
+>Extension of Hiring Freeze
+
+>This executive order extends a hiring freeze on federal civilian employees within the executive branch until July 15, 2025. It prohibits the filling of vacant positions and the creation of new positions unless exempted. Certain categories are exempt from the freeze, including military personnel and jobs related to national security. The order emphasizes maximizing efficiency in workforce utilization and prohibits circumventing the freeze through external contracts. It allows for specific reassignments and maintains exemptions granted previously, ensuring that essential services and benefits are not adversely affected.
+
+>Ensuring Commercial, Cost-Effective Solutions in Federal Contracts
+
+>This executive order aims to enhance the efficiency and cost-effectiveness of federal contracting by prioritizing the use of commercially available products and services. It seeks to eliminate unnecessary government expenditures and ensure that taxpayer dollars are spent wisely. The order mandates federal agencies to conduct thorough market research before procuring custom or non-commercial solutions. Agencies are required to report their compliance with this policy and any justifications for pursuing non-commercial options. This initiative emphasizes innovation and competitiveness in government procurement.
+
+>Restoring Common Sense to Federal Office Space Management
+
+>This executive order revokes two previous orders aimed at the location of federal facilities in urban centers, allowing federal agencies greater flexibility in choosing cost-effective office spaces. It aims to improve efficiency and effectiveness in delivering services to the American public. By discarding the mandates that prioritized central business districts and historic properties, the order intends to enable agencies to better align their operations with financial considerations and mission objectives, ultimately enhancing government service delivery.
+
+>Ensuring National Security and Economic Resilience Through Section 232 Actions on Processed Critical Minerals and Derivative Products
+
+>This executive order addresses national security and economic resilience by initiating an investigation under Section 232 of the Trade Expansion Act, focusing on the import of processed critical minerals and their derivative products. It recognizes that these materials are vital for national defense and economic stability, and highlights concerns about reliance on foreign suppliers that create vulnerabilities in supply chains. The order mandates an assessment of the impact of these imports on U.S. security and evaluates potential risks arising from foreign competition, market manipulation, and global disruptions.
+
+>Lowering Drug Prices by Once Again Putting Americans First
+
+>This executive order aims to address the issue of high prescription drug prices in the U.S. by reinstating and enhancing previous initiatives to ensure that patients have access to affordable medications. It directs the Secretary of Health and Human Services to propose guidelines for the Medicare Drug Price Negotiation Program and calls for efforts to stabilize Medicare Part D premiums. The order also emphasizes promoting competition, transparency, and innovation in drug pricing while seeking to improve access to essential medications for low-income individuals. Furthermore, it plans to reevaluate the role of intermediaries in the pharmaceutical supply chain.
+
+>Restoring Common Sense to Federal Procurement
+
+>This executive order aims to reform the Federal Acquisition Regulation (FAR) to enhance the efficiency and effectiveness of federal procurement practices. Identifying the FAR as overly complex and burdensome, the order mandates a review and amendment process to eliminate unnecessary regulations and streamline procedures, ensuring they meet statutory requirements and support national interests. The goal is to enable a more agile procurement system that better serves the public while facilitating business with the federal government. It emphasizes collaboration among agencies to align and improve their procurement frameworks.
+
+>Preventing Illegal Aliens from Obtaining Social Security Act Benefits
+
+>This executive order aims to prevent ineligible aliens from receiving benefits under the Social Security Act. It reinforces the stance that taxpayer-funded benefits should be limited to eligible individuals to discourage illegal immigration. The order directs specific federal agencies to enhance eligibility verification processes, implement fraud detection measures, and prioritize enforcement actions against those failing to comply. Additionally, it initiates special prosecutor programs to tackle fraud related to Social Security and Medicare. It emphasizes the importance of policing fraudulent claims to preserve resources for authorized beneficiaries.
+
+>Military Mission for Sealing the Southern Border of the United States and Repelling Invasions
+
+>This presidential memorandum outlines a strategy for utilizing military forces to enhance security along the southern border of the United States. It follows an Executive Order that designates military missions to repel perceived invasions and secure the border from unlawful entry. The memorandum instructs various government secretaries to take necessary actions, such as providing the Department of Defense jurisdiction over certain federal lands for military activities, including building barriers and monitoring. It includes provisions for phased implementation and specifies adherence to legal frameworks during execution.
+
+>Clarification of Exceptions Under Executive Order 14257 of April 2, 2025, as Amended
+
+>This presidential memorandum clarifies exceptions under Executive Order 14257, which addresses national security concerns related to large U.S. goods trade deficits by imposing additional tariffs. Specifically, it details that certain goods, notably semiconductors, are excluded from these tariffs. The memorandum outlines how specific products are classified within the Harmonized Tariff Schedule of the United States and mandates that these classifications be reflected in the tariff schedule effectively. It also states that duties collected on these exempt goods will be refunded according to established procedures.
+
+>Modifying Reciprocal Tariff Rates to Reflect Trading Partner Retaliation and Alignment
+
+>This executive order modifies reciprocal tariff rates in response to international trade dynamics, particularly regarding retaliation from trading partners, notably the People's Republic of China (PRC). Following prior executive actions addressing trade deficits, this order increases duties on certain imports from the PRC while temporarily suspending specific ad valorem rates for other foreign partners that are cooperating with the U.S. to improve trade reciprocity. The modifications aim to safeguard U.S. national and economic security while addressing retaliatory tariffs imposed by the PRC.
+
+>Addressing Risks Associated with an Egregious Leaker and Disseminator of Falsehoods
+
+>This presidential memorandum addresses concerns regarding the actions of Miles Taylor, a former Department of Homeland Security employee, who allegedly disclosed classified information and created false narratives to gain personal notoriety. The memorandum directs relevant executive departments and agencies to suspend Taylor's security clearances and to review his conduct for violations of federal employee suitability standards. Additionally, it calls for an assessment of individuals associated with him to ensure national interests are protected. The measures aim to uphold government integrity and national security.
+
+>Addressing Risks from Chris Krebs and Government Censorship
+
+>This presidential memorandum addresses concerns regarding government censorship and the protection of free speech rights. It specifically targets actions attributed to Christopher Krebs and the Cybersecurity and Infrastructure Security Agency (CISA), alleging misuse of authority to suppress dissenting viewpoints on various issues, including the 2020 election and COVID-19. The memorandum directs agencies to revoke Krebs’ security clearance and review activities by CISA. It emphasizes the importance of maintaining trust in government and recommends actions to ensure compliance with established free speech policies.
+
+>Addressing Risks from Susman Godfrey
+
+>This executive order addresses perceived risks posed by Susman Godfrey LLP, stating that law firms engaging in activities detrimental to U.S. interests should be denied access to national secrets and federal funding. It mandates the suspension of security clearances for Susman employees pending review, the cessation of government contracts with the firm, and restrictions on agency interactions with Susman personnel. The order emphasizes ending unlawful discrimination practices and ensuring that government resources align with national security priorities, particularly concerning racial discrimination.
+
+>Modernizing Defense Acquisitions and Spurring Innovation in the Defense Industrial Base
+
+>This executive order aims to modernize defense acquisitions and enhance innovation within the U.S. defense industrial base. It recognizes the need for a more agile acquisition process to deliver advanced capabilities essential for military superiority. The order requires a comprehensive reform of the Department of Defense's procurement processes, emphasizing speed and flexibility while fostering an environment that encourages risk-taking and innovation among the acquisition workforce. It outlines specific actions, including reviewing existing regulations and conducting assessments of major defense acquisition programs for performance optimization.
+
+>Restoring America’s Maritime Dominance
+
+>This executive order aims to revitalize the United States' maritime industry, which has weakened over time due to neglect, impacting national security and economic prospects. The order outlines a policy to rebuild domestic shipbuilding capacity and workforce, emphasizing the need for federal funding, competitiveness of U.S.-flagged vessels, and a comprehensive Maritime Action Plan (MAP). Key initiatives include assessing the maritime industrial base, enforcing compliance with harbor maintenance fees, and collaborating with allied nations to enhance trade and reduce reliance on adversaries in maritime sectors.
+
+>Directing the Repeal of Unlawful Regulations
+
+>This presidential memorandum directs executive departments and agencies to identify and repeal unlawful regulations that hinder economic growth and innovation. Emphasizing adherence to constitutional boundaries set by recent Supreme Court decisions, the memorandum outlines a process initiated by Executive Order 14219. Agencies are tasked with prioritizing the review of regulations' lawfulness, particularly those conflicting with specified court rulings. The memorandum allows agencies to expedite repeal without notice and comment, where lawful, and mandates reporting on any regulations not chosen for repeal.
+
+>Reducing Anti-Competitive Regulatory Barriers
+
+>This executive order aims to reduce anti-competitive regulatory barriers within the U.S. economy. It directs federal agency heads to review existing regulations that may hinder competition, entrepreneurship, and innovation. Agencies are tasked with identifying rules that create monopolies, limit market entry, or impose unnecessary burdens. A systematic review process will be undertaken to recommend rescissions or modifications of such regulations, with public input sought through a request for information. Overall, the initiative seeks to foster a more competitive economic landscape for consumers and new market entrants.
+
+>Zero-Based Regulatory Budgeting to Unleash American Energy
+
+>This executive order mandates the implementation of a zero-based regulatory budgeting approach aimed at transforming the energy regulatory landscape in the United States. It establishes sunset provisions for regulations related to energy production, requiring periodic re-evaluation and potential expiration of rules unless justified for extension. The goal is to reduce the regulatory burden that has historically constrained energy innovation, with specific directives targeting agencies such as the EPA, Department of Energy, and more. This order emphasizes reexamining regulations to promote economic growth in the energy sector.
+
+>Reforming Foreign Defense Sales to Improve Speed and Accountability
+
+>This executive order aims to enhance the efficiency and accountability of the United States' foreign defense sales system. It seeks to improve military readiness and bolster partnerships by streamlining decision-making processes, increasing transparency, and integrating industry collaborations. Key components include consolidating regulations, reassessing restrictions on military items, and developing a single electronic tracking system for sales. The order emphasizes securing exportable features and defining priority partners for arms transfers, thereby reinforcing U.S. defense capabilities and fostering partner collaboration.
+
+>Maintaining Acceptable Water Pressure in Showerheads
+
+>This executive order directs the Secretary of Energy to repeal a prior regulation that defined "showerhead" within the Energy Conservation Program, which the order claims imposes excessive regulation on a common household item. The order emphasizes concerns about overregulation potentially hindering economic freedom and personal choice. By streamlining the definition to a more concise version, the order aims to reduce bureaucratic constraints. The repeal is to take effect 30 days after its announcement in the Federal Register, bypassing the usual notice and comment process.
+
+>Education and Sharing Day, U.S.A., 2025
+
+>This presidential proclamation establishes April 9, 2025, as "Education and Sharing Day, U.S.A." The day commemorates the life and legacy of Rabbi Menachem Mendel Schneerson, a prominent Jewish leader known for his efforts in spiritual outreach and education. The proclamation highlights the importance of Schneerson's teachings and the ongoing work of the Chabad-Lubavitch community in promoting kindness and Jewish values. It calls for Americans to reflect on his contributions and encourages participation in activities dedicated to education and sharing, further emphasizing the need to combat antisemitism.
+
+>National Former Prisoner of War Recognition Day, 2025
+
+>This presidential proclamation establishes April 9, 2025, as National Former Prisoner of War Recognition Day. It honors American service members who have experienced captivity in warfare, reflecting on their sacrifices in defending freedom since the Revolutionary War. The proclamation emphasizes a commitment to veterans, particularly former POWs, highlighting issues such as veteran homelessness and the administration's dedication to their support. It calls for recognition and observance of this day through ceremonies, expressing national gratitude for the sacrifices of these individuals.
+
+>National Crime Victims’ Rights Week, 2025
+
+>This presidential proclamation declares April 6 through April 12, 2025, as National Crime Victims’ Rights Week. It emphasizes the importance of public safety and expresses support for crime victims and their families. The proclamation highlights concerns over crime rates and policies perceived as lenient towards offenders. It calls for collaboration among citizens, law enforcement, and organizations to protect victims' rights and emphasizes the administration's commitment to enhancing legal protections for law enforcement and implementing stricter laws against repeat offenders.
+
+>Amendment to Reciprocal Tariffs and Updated Duties as Applied to Low-Value Imports from the People’s Republic of China
+
+>This executive order amends existing tariffs and duties concerning low-value imports from the People's Republic of China (PRC) in response to retaliatory tariffs imposed by China. Following a previous declaration of a national emergency due to significant U.S. trade deficits, the order escalates tariff rates on imports from China to address these trade imbalances and protect national security. It modifies the Harmonized Tariff Schedule, increasing duties on specific goods and adjusting de minimis thresholds. Implementation involves coordination among various government agencies.
+
+>Reinvigorating America’s Beautiful Clean Coal Industry and Amending Executive Order 14241
+
+>This executive order aims to revitalize the U.S. coal industry to enhance economic prosperity and national security while addressing rising electricity demands. It emphasizes the importance of coal as a domestic energy source, promoting policies to reduce regulatory barriers, increase coal production and exports, and support job creation within the industry. The order mandates a comprehensive assessment of federal coal resources, prioritizes leasing activities, and initiates measures to align federal policies with coal interests, including considerations for innovations in sectors such as artificial intelligence.
+
+>Protecting American Energy From State Overreach
+
+>This executive order aims to protect American energy resources from perceived overreach by state and local governments. It asserts that state laws regulating energy production and use, particularly those addressing climate change or imposing fines, threaten national economic security and energy dominance. The order directs the Attorney General to identify and challenge state laws and regulations deemed unconstitutional or preempted by federal law, especially those that could hinder domestic energy development. The intent is to ensure a uniform regulatory environment conducive to energy production across the nation.
+
+>Strengthening the Reliability and Security of the United States Electric Grid
+
+>This executive order aims to enhance the reliability and security of the United States electric grid amid rising electricity demand driven by technological advancements and increased manufacturing. It recognizes the national and economic risks posed by an unstable grid and declares a policy to ensure the resilience of electric power sources. Key measures include streamlining procedures for emergency responses, developing a methodology to assess power supply reserves, and maintaining critical energy resources within at-risk regions to prevent disruptions.
+
+>Review of Proposed United States Steel Corporation Acquisition
+
+>This presidential memorandum directs the Committee on Foreign Investment in the United States (CFIUS) to review the proposed acquisition of United States Steel Corporation by Nippon Steel Corporation and its affiliates. Following the prohibition of this acquisition on January 3, 2025, the memorandum emphasizes the need for a thorough evaluation of potential national security risks associated with the transaction. CFIUS is tasked with submitting a recommendation within 45 days regarding whether measures proposed by the parties adequately address identified risks.
+
+>Extending the TikTok Enforcement Delay
+
+>This executive order extends the enforcement delay of the Protecting Americans from Foreign Adversary Controlled Applications Act specifically regarding TikTok until June 19, 2025. During this period, the Department of Justice is prohibited from enforcing this Act or imposing penalties for noncompliance related to TikTok. Moreover, it indicates that no actions will be taken against entities for conduct prior to this order's issuance. The Attorney General is tasked with providing guidance and ensuring that states or private parties do not attempt enforcement during this time, preserving the Executive's authority.
+
+>National Donate Life Month, 2025
+
+>This presidential proclamation establishes April 2025 as National Donate Life Month, recognizing the importance of organ donation in saving lives. It highlights the commitment of over 170 million Americans who have registered as donors, acknowledging their role in extending nearly 50,000 lives through organ transplants in the previous year. The proclamation emphasizes the critical need for more donors, given that over 103,000 individuals await transplants. It encourages eligible Americans to become donors and honors both the donors and recipients during this month.
+
+>National Child Abuse Prevention Month, 2025
+
+>This presidential proclamation designates April 2025 as National Child Abuse Prevention Month, emphasizing the importance of protecting children from abuse and promoting their well-being. It calls on Americans to take proactive measures to prevent child abuse and neglect, recognizing the critical role of stable family environments. The proclamation outlines efforts to combat various forms of child abuse, specifically addressing concerns related to gender ideology and child trafficking. It urges citizens to invest in the safety and development of children, and affirms a commitment to hold abusers accountable.
+
+>Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China as Applied to Low-Value Imports
+
+>This executive order addresses the ongoing synthetic opioid crisis in the United States by imposing new duties on low-value imports from the People's Republic of China (PRC) and Hong Kong, particularly those that previously qualified for duty-free treatment. These measures aim to combat the concealment of illicit substances in shipping practices. Effective May 2, 2025, shipments valued at or under $800 will no longer receive de minimis treatment and will be subject to new tariff rates, with the intention of enhancing regulatory oversight and curbing the influx of harmful goods.
+
+>Regulating Imports with a Reciprocal Tariff to Rectify Trade Practices that Contribute to Large and Persistent Annual United States Goods Trade Deficits
+
+>This executive order addresses the large and persistent annual U.S. goods trade deficits by identifying them as a national emergency. It cites the lack of reciprocity in trade relationships, disparate tariff rates, and non-tariff barriers as significant contributors to this economic issue. The order enables the government to impose a reciprocal tariff policy aimed at rectifying unfair trade practices and promoting a more equitable trading environment. By seeking to balance trade relationships, the executive order aims to protect U.S. manufacturing and safeguard national economic security.
+
+>World Autism Awareness Day, 2025
+
+>This presidential proclamation recognizes April 2, 2025, as World Autism Awareness Day, highlighting the experiences of millions of Americans living with autism spectrum disorder (ASD). It emphasizes the importance of early detection and intervention for improving outcomes. The proclamation acknowledges the increase in autism diagnoses over the decades and advocates for research and support for families affected by ASD. It calls upon citizens to raise awareness about the condition, understand its challenges, and promote empowerment for individuals with autism and their families.
+
+>Combating Unfair Practices in the Live Entertainment Market
+
+>This executive order addresses issues in the live entertainment market, particularly targeting unfair practices by ticket scalpers and intermediaries. It aims to combat the high fees imposed on fans due to scalping and price gouging, which deprives artists of rightful profits. The order directs the Federal Trade Commission (FTC) and the Attorney General to enforce competition laws and improve transparency in ticket pricing. It mandates collaboration with state officials to enforce consumer protection laws, calls for regulatory proposals, and requires a report on implementation actions within 180 days.
+
+>Establishing the United States Investment Accelerator
+
+>This executive order establishes the United States Investment Accelerator, aimed at enhancing domestic and foreign investments exceeding $1 billion in the U.S. The order acknowledges that complex regulatory processes hinder investment and proposes to modernize these processes. It directs the Secretary of Commerce to create an office to streamline regulations, assist investors in navigating government processes, and collaborate with state governments to reduce barriers. The initiative seeks to bolster economic growth and competitiveness while managing national security concerns.
+
+>Making the District of Columbia Safe and Beautiful
+
+>This executive order aims to enhance the safety, beauty, and prosperity of Washington, D.C., recognizing it as a capital city that belongs to all Americans. It establishes the D.C. Safe and Beautiful Task Force, which will coordinate federal and local resources to prevent crime and promote clean public spaces. The order also mandates the development of a beautification program, focusing on restoring monuments, cleaning public areas, and ensuring the maintenance of federal properties. Overall, it seeks to create a safe, inviting environment for residents and visitors.
+
+>Exclusions from Federal Labor-Management Relations Programs
+
+>This executive order delineates exclusions from federal labor-management relations programs specifically for agencies engaged in intelligence, counterintelligence, investigative, or national security functions. It identifies various departments, including Defense, State, and Homeland Security, whose subdivisions are determined not to be covered by existing labor relations statutes due to national security concerns. Additionally, it grants certain secretaries the authority to suspend labor relations provisions for their respective departments, allowing for flexibility in cultivating workforce efficiency in alignment with national security needs.
+
+>Restoring Truth and Sanity to American History
+
+>This executive order aims to address perceived historical revisionism in American narratives by promoting a more positive portrayal of U.S. history. It expresses concern over what it describes as ideological distortions undermining the nation's achievements and legacy. The order directs the restoration of historical sites and museums, specifically the Smithsonian Institution, to reflect traditional American values and avoid divisive ideologies. It also includes provisions to assess and restore monuments and memorials deemed to have been improperly altered since January 2020.
+
+>Addressing Risks From WilmerHale
+
+>This executive order addresses perceived risks posed by the law firm Wilmer Cutler Pickering Hale and Dorr LLP (WilmerHale) to U.S. national interests and public safety. It directs an immediate suspension of security clearances held by its employees, calls for the cessation of government contracts with the firm, and mandates disclosure of its business dealings by contractors. Intended to limit federal engagement with WilmerHale, the order prohibits its personnel from accessing government buildings and recommends limiting hiring of its employees to protect national security.
+
+>Executive Grant of Clemency for Devon Archer
+
+>This grant of clemency provides a full and unconditional pardon to Devon Archer for certain offenses against the United States, effectively absolving him of legal penalties associated with his conviction in the case United States v. Archer, l:16-cr-371. The clemency is issued under the Constitutional powers granted to the President and eliminates all fines, penalties, forfeitures, and restitution ordered by the court. The Attorney General is designated to formalize this act, ensuring it is completed as directed.
+
+>Addressing Risks from Jenner &amp; Block
+
+>This executive order addresses perceived risks associated with certain law firms, particularly targeting Jenner & Block LLP. It mandates a review of security clearances for individuals at the firm, citing concerns over public safety, national security, and potential discrimination. The order directs federal agencies to cease provision of services to Jenner, require disclosure of any business relationships with the firm, and restrict federal employee interaction with its personnel. Additionally, it emphasizes alignment with national interests in federal contracting and policy decisions.
+
+>PRESERVING AND PROTECTING THE INTEGRITY OF AMERICAN ELECTIONS
+
+>This executive order aims to strengthen the integrity of American elections by enforcing existing federal laws related to voter registration and voting eligibility. It emphasizes the importance of accurately verifying U.S. citizenship for voters, limits mail-in voting practices, and mandates the use of voter-verifiable paper records. The order instructs various federal agencies to ensure compliance with laws that prohibit non-citizens from voting and to assist states in maintaining accurate voter registration lists. Ultimately, it seeks to enhance public trust in the electoral process.
+
+>Protecting America’s Bank Account Against Fraud, Waste, and Abuse
+
+>This executive order aims to enhance financial integrity, accountability, and operational efficiency within the federal government, particularly regarding the handling of taxpayer funds. It addresses issues related to fraud, waste, and improper payments, which are estimated to cost the government between $233 and $521 billion annually. The order mandates improved financial information sharing between agencies and the Department of the Treasury to better track and verify transactions. It seeks to consolidate disbursement functions and standardize financial management systems, thereby fostering a more transparent and efficient federal financial system.
+
+>Immediate Declassification of Materials Related to the Federal Bureau of Investigation’s Crossfire Hurricane Investigation
+
+>This executive order mandates the immediate declassification of materials related to the FBI's Crossfire Hurricane investigation, which examined Russian interference in the 2016 presidential election. It directs the Attorney General, Director of National Intelligence, and Director of the Central Intelligence Agency to make these materials publicly accessible, with certain exceptions for redactions deemed necessary. The order specifically excludes materials protected under Foreign Intelligence Surveillance Court orders and personally identifiable information, emphasizing a push for transparency while maintaining specific legal protections.
+
+>Modernizing Payments To and From America’s Bank Account
+
+>This executive order aims to modernize federal payment systems by phasing out paper-based transactions, such as checks and money orders, in favor of electronic payments by September 30, 2025. The order addresses inefficiencies, risks of fraud, and costs associated with paper payments, which have increased during the COVID-19 pandemic. Federal agencies are mandated to transition to electronic funds transfers, ensuring compliance and support for unbanked individuals. Exceptions for specific cases will be reviewed, and a public awareness campaign will facilitate this transition.
+
+>IMPOSING TARIFFS ON COUNTRIES IMPORTING VENEZUELAN OIL
+
+>This executive order imposes a 25% tariff on goods imported into the United States from countries that import Venezuelan oil, directly or indirectly, beginning April 2, 2025. It is enacted in response to the ongoing national emergency declared due to actions by the Venezuelan regime and its ties to destabilizing activities and criminal organizations. The Secretary of State, in consultation with other government officials, will determine the applicability of the tariffs, which are intended to further restrict the regime's influence and safeguard U.S. national security interests.
+
+>Preventing Abuses of the Legal System and the Federal Court
+
+>This presidential memorandum addresses the need for accountability among lawyers and law firms that engage in misconduct threatening national and election integrity, public safety, and homeland security. It directs the Attorney General to pursue sanctions against those involved in frivolous or vexatious litigation against the federal government. Furthermore, it mandates a review of attorneys' conduct over the past eight years and emphasizes the importance of regulatory enforcement related to attorney discipline. The memorandum seeks to uphold the integrity of the legal system by reinforcing ethical standards among legal practitioners.
+
+>ADDRESSING REMEDIAL ACTION BY PAUL WEISS
+
+>This executive order revokes a prior order aimed at addressing issues related to the law firm Paul, Weiss, Rifkind, Wharton & Garrison LLP. The original order expressed concerns about the firm's role in undermining judicial processes. Following an acknowledgment of past wrongdoings by the firm and a commitment to policy changes, including political neutrality and significant pro bono contributions, this new order reflects a shift towards promoting justice and inclusion within the firm. The revocation emphasizes the need for legal professionals to contribute positively to communities and uphold American principles.
+
+>Rescinding Security Clearances and Access to Classified Information from Specified Individuals
+
+>This presidential memorandum addresses the revocation of security clearances and access to classified information for specified individuals. It emphasizes that continued access for these individuals is not in the national interest. The memorandum directs heads of executive departments and agencies to implement the revocation of clearances and unescorted access to secure facilities, including the receipt of classified briefings. It also outlines that any private entities that granted clearances based on these individuals’ employment should be notified. The document clarifies that it does not confer any legal enforceability.
+
+>Strengthening the Suitability and Fitness of the Federal Workforce
+
+>This executive order addresses the suitability and fitness of federal employees, delegating authority to the Director of the Office of Personnel Management (OPM) to make final suitability determinations based on post-appointment conduct. It requires OPM to propose regulatory amendments for suitability determinations and actions, including directives for employee removal if they do not meet suitability criteria. The order outlines the procedure for compliance, emphasizing that employing agencies must follow OPM's instructions within specific timelines. It also clarifies that this order does not limit other agencies' authorities or create enforceable rights.
+
+>Stopping Waste, Fraud, and Abuse by Eliminating Information Silos
+
+>This executive order aims to enhance government efficiency by removing barriers that prevent federal employees from accessing critical data and promoting inter-agency information sharing. It instructs agency heads to ensure designated officials have prompt access to unclassified records and information technology systems to combat waste, fraud, and abuse. Additionally, the order mandates the review and modification of agency regulations that hinder data sharing and requires a comprehensive examination of classified information policies. The goal is to streamline operations and improve oversight across federal programs.
+
+>Eliminating Waste and Saving Taxpayer Dollars by Consolidating Procurement
+
+>This executive order aims to improve the efficiency of federal procurement processes by consolidating the acquisition of common goods and services under the General Services Administration (GSA). With federal spending on contracts around $490 billion annually, the order seeks to eliminate duplication and waste, allowing agencies to focus on their core missions. It directs agency heads to submit proposals to transfer procurement functions to the GSA and mandates the GSA to develop a comprehensive plan for government-wide procurement, particularly for information technology.
+
+>Immediate Measures to Increase American Mineral Production
+
+>This executive order aims to enhance domestic mineral production in the United States to bolster national security, create jobs, and reduce reliance on foreign minerals. It identifies regulatory bottlenecks in mineral mining and processing, directing federal agencies to expedite permits for priority projects and prioritize mineral production on federal lands. The order also encourages investment in mineral projects and requires collaboration between various federal departments to support the mining industry. Overall, it seeks to revitalize the U.S. mineral sector amid growing geopolitical concerns.
+
+>Improving Education Outcomes by Empowering Parents, States, and Communities
+
+>This executive order aims to enhance educational outcomes by shifting control from the federal level back to state and local governments. It criticizes the U.S. Department of Education for failing to improve student performance and proposes to close the department, redirecting its functions and funding to empower parents, communities, and states. The order also mandates strict compliance with federal laws in the disbursement of educational funds and seeks to eliminate programs related to diversity, equity, and inclusion, advocating for a return to traditional educational governance.
+
+>Removing Discrimination and Discriminatory Equity Ideology From the Foreign Service
+
+>This presidential memorandum addresses concerns about perceived discriminatory practices and ideologies within the Federal Government's Foreign Service, which the document claims have become embedded over recent years. It mandates a shift towards merit-based hiring and promotion, prohibiting any discrimination based on race, religion, or other protected characteristics. The memorandum instructs relevant officials to remove references to “Diversity, Equity, Inclusion, and Accessibility” from evaluation criteria and outlines steps to investigate and address any discriminatory actions by Foreign Service members.
+
+>Achieving Efficiency Through State and Local Preparedness
+
+>This executive order aims to enhance national security and resilience by empowering state and local governments, as well as individual citizens, in preparing for various risks, including natural disasters and cyber threats. It emphasizes the need for a decentralized approach to infrastructure management, allowing for risk-informed decision-making. The order directs the development of a National Resilience Strategy and a National Risk Register, while also calling for the review and revision of existing preparedness policies to streamline operations and improve efficiency.
+
+>Invocation of the Alien Enemies Act Regarding the Invasion of The United States by Tren De Aragua
+
+>This presidential proclamation addresses the threat posed by Tren de Aragua (TdA), designated as a Foreign Terrorist Organization linked to serious crimes and destabilization efforts related to the Maduro regime in Venezuela. It asserts that TdA's actions constitute an invasion and irregular warfare against the U.S. The proclamation invokes the Alien Enemies Act, allowing for the apprehension and removal of TdA members identified as threats, declaring them as hostile and dangerous to public safety. It mandates collaboration between federal and state enforcement agencies for enforcement of these measures.
+
+>Continuing the Reduction of the Federal Bureaucracy
+
+>This executive order focuses on the continued reduction of the Federal bureaucracy deemed unnecessary. It mandates the elimination of non-statutory components and functions within specific governmental entities, such as the Federal Mediation and Conciliation Service and the Minority Business Development Agency, while minimizing their statutory duties. Heads of these entities must report compliance to the Office of Management and Budget, which will also scrutinize budget requests for alignment with the order. The directive emphasizes adherence to existing laws and does not confer legal rights to any individuals or entities.
+
+>Addressing Risks from Paul Weiss
+
+>This executive order addresses perceived risks associated with the law firm Paul Weiss and its activities. It cites concerns that the firm has undermined judicial processes, discriminated against employees, and engaged in behavior deemed harmful to public interests. The order mandates a review of security clearances held by individuals associated with Paul Weiss, halts government contracts involving the firm, and restricts federal employees' access to its personnel. It aims to ensure that government actions align with national interests and values, particularly regarding discrimination and national security.
+
+>Additional Recissions of Harmful Executive Orders and Actions
+
+>This executive order aims to further rescind certain executive actions from the previous administration, building on prior efforts to eliminate what is deemed harmful or unnecessary. It specifically revokes a range of orders and memoranda related to public health, foreign policy, labor standards, and domestic economic policies. The intent is to realign federal government practices to promote a more common-sense approach that purportedly enhances American citizens' potential. The order emphasizes the authority of executive departments while clarifying its implementation scope and limitations.
+
+>Ensuring the Enforcement of Federal Rule of Civil Procedure 65(c)
+
+>This presidential memorandum outlines a policy aimed at reinforcing the enforcement of Federal Rule of Civil Procedure 65(c). It addresses concerns about activist organizations obtaining broad injunctions that may disrupt executive policy-making processes and impose costs on taxpayers. By mandating that parties seeking injunctions against the federal government must provide security for potential costs and damages, the memorandum seeks to deter frivolous lawsuits and ensure accountability in federal court actions. It directs executive agencies to request appropriate security in relevant cases while emphasizing that this initiative does not create enforceable rights.
+
+>U.S. Hostage and Wrongful Detainee Day, 2025
+
+>This presidential proclamation establishes March 9 as U.S. Hostage and Wrongful Detainee Day, a day intended to raise awareness and show support for American citizens held captive or unjustly detained abroad. It emphasizes a commitment to securing their release and ensuring their families are supported during these uncertain times. The proclamation highlights previous efforts made by the administration to successfully bring several detainees home and calls upon the nation to honor this day through observance and activities that reflect solidarity with those affected.
+
+>Restoring Public Service Loan Forgiveness
+
+>This executive order aims to revise the Public Service Loan Forgiveness (PSLF) Program, originally established to incentivize public service careers by forgiving student loans after 10 years of service and payments. The order seeks to exclude individuals working for organizations involved in activities it deems illegal, such as violations of immigration laws, terrorism, or facilitating gender-affirming care for minors, which it classifies as child abuse. It cites concerns about the program's previous mismanagement and its unintended consequences on taxpayer funds and educational costs. The Secretary of Education is directed to propose regulatory changes in alignment with this new framework.
+
+>Establishing The White House Task Force on the FIFA World Cup 2026
+
+>This executive order establishes the White House Task Force on the FIFA World Cup 2026 in anticipation of the events surrounding the FIFA Club World Cup 2025 and FIFA World Cup 2026, which aims to be the largest sporting event in history. The Task Force will coordinate federal efforts for planning and logistics, fostering economic growth and tourism while showcasing national pride during the United States' 250th anniversary. The Task Force will consist of various executive department leaders and will report on its activities by June 2025, terminating on December 31, 2026, unless extended.
+
+>ESTABLISHMENT OF THE STRATEGIC BITCOIN RESERVEAND UNITED STATES DIGITAL ASSET STOCKPILE
+
+>This executive order establishes a Strategic Bitcoin Reserve and a United States Digital Asset Stockpile to manage and enhance the strategic position of the U.S. in the digital asset space, particularly Bitcoin. The order tasks the Secretary of the Treasury with maintaining control over these reserves, which will consist of government-held Bitcoin and other digital assets acquired through forfeiture. It emphasizes the importance of responsibly managing these assets while developing strategies for future acquisitions. The order is designed to leverage digital assets for national benefit without imposing costs on taxpayers.
+
+>Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile
+
+>This executive order establishes the Strategic Bitcoin Reserve and the United States Digital Asset Stockpile to enhance the management and strategic utilization of digital assets by the U.S. government. The order outlines the creation of custodial accounts for Bitcoin and other digital assets resulting from forfeiture proceedings. It mandates the Secretary of the Treasury to oversee these reserves, ensure responsible stewardship, and develop strategies for potential future acquisitions of Bitcoin while maintaining budget neutrality. The order aims to position the U.S. advantageously within the global financial system regarding digital assets.
+
+>Amendment to Duties to Address the Flow of Illicit Drugs Across Our Southern Border
+
+>This executive order amends tariffs imposed on certain goods from Mexico, specifically targeting automotive parts and components crucial to the U.S. automotive industry. It aims to reduce the financial burden on this sector by excluding certain articles from additional duties and lowering the tariff rate on potash. These changes are set to take effect on March 7, 2025, and are intended to minimize disruptions to supply chains and employment in the automotive sector. The order allows for continued administrative flexibility and legal compliance in its implementation.
+
+>Addressing Risks from Perkins Coie LLP
+
+>This executive order outlines measures to address perceived risks and unethical activities associated with the law firm Perkins Coie LLP. The order stems from concerns over alleged involvement in creating the Steele dossier during the 2016 election. It directs federal agencies to review and potentially suspend security clearances for individuals associated with Perkins Coie, cease government contracts with the firm, and investigate compliance with non-discrimination laws. Additionally, it advises agencies to limit access for Perkins Coie employees to federal facilities and restrict hiring practices involving them, citing national security concerns.
+
+>Amendment to Duties to Address the Flow of Illicit Drugs Across Our Northern Border
+
+>This executive order amends tariffs imposed on specific goods from Canada as part of broader measures to combat the flow of illicit drugs across the northern border. It seeks to support the U.S. automotive industry by exempting certain automotive parts and components from additional tariffs and reducing duties on potash from 25% to 10%. The changes aim to minimize disruption in automotive supply chains while addressing public safety concerns related to drug trafficking. The adjustments will take effect on March 7, 2025, and are framed within existing legal authorities.
+
+>Honoring Jocelyn Nungaray
+
+>This executive order addresses the renaming of the Anahuac National Wildlife Refuge to honor Jocelyn Nungaray, a victim of violent crime attributed to previous immigration policies. It cites concerns over national safety linked to these policies, claiming they contributed to an influx of criminal elements at the southern border. The order directs the Secretary of the Interior to take necessary actions to rename the refuge to the “Jocelyn Nungaray National Wildlife Refuge” within 30 days, ensuring permanent commemoration of her memory.
+
+>Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China
+
+>This executive order amends previous orders aimed at addressing the synthetic opioid supply chain originating from the People’s Republic of China (PRC). It acknowledges the continued influx of synthetic opioids, such as fentanyl, into the United States as a significant national security threat. In response, the order increases tariffs on products from the PRC from 10% to 20%, reflecting concerns about the PRC's insufficient actions to address the illicit drug crisis. The order reiterates the government's authority to enforce these measures while clarifying that it does not create legal rights enforceable by other parties.
+
+>Amendment to Duties to Address the Situation at our Southern Border
+
+>This executive order amends previous directives regarding duties aimed at addressing issues at the U.S. southern border. It specifically revises the conditions under which duty-free de minimis treatment applies to certain goods relevant to border management. The order stipulates that this treatment will continue until the Secretary of Commerce confirms that systems are in place for effectively processing and collecting tariff revenues. Additionally, it emphasizes that the order does not create enforceable rights against the government and should be implemented in accordance with existing laws and funding availability.
+
+>Amendment to Duties to Address the Flow of Illicit Drugs across our Northern Border
+
+>This executive order amends a previous order aimed at addressing the flow of illicit drugs across the northern U.S. border by modifying duty regulations on certain covered articles. The amendment introduces conditions under which duty-free de minimis treatment is available, stating that such benefits will terminate once the Secretary of Commerce confirms the establishment of sufficient systems for tariff processing and revenue collection. The order reinforces existing legal authorities and clarifies that it does not create enforceable rights against the U.S. or its agencies.
+
+>Addressing the Threat to National Security from Imports of Timber, Lumber
+
+>This Executive Order addresses national security concerns related to the imports of timber, lumber, and their derivative products. Citing vulnerabilities in the U.S. wood supply chain, it emphasizes the importance of a robust domestic timber industry for both civilian and military needs. The Secretary of Commerce is tasked with investigating the national security implications of these imports, focusing on the effects of foreign competition and government subsidies. The investigation will assess domestic production capabilities and recommend actions, such as tariffs or policy reforms, to strengthen U.S. supply chains.
+
+>Immediate Expansion of American Timber Production
+
+>This Executive Order aims to expand American timber production to improve national and economic security by reducing reliance on foreign timber supplies. It mandates specific actions from the Secretaries of the Interior and Agriculture to enhance forest management practices, streamline permitting processes, and set targets for timber sales from federal lands. The Order emphasizes the importance of rapid approval for forestry projects while ensuring compliance with environmental regulations. Overall, it seeks to alleviate regulatory burdens that currently hinder domestic timber production.
+
+>Designating English as the Official Language of The United States
+
+>This Executive Order designates English as the official language of the United States, asserting that English has historically served as the national language and is vital for promoting unity and effective governance. It revokes the previous Executive Order aimed at improving services for individuals with limited English proficiency but clarifies that agencies are not required to cease offering services in other languages. The order emphasizes that English fosters civic engagement and economic opportunity while acknowledging the country's multilingual heritage. It seeks to streamline communication and reinforce shared national values.
+
+>Implementing the President’s “Department of Government Efficiency” Cost Efficiency Initiative
+
+>This Executive Order initiates a transformation in federal spending on contracts, grants, and loans, aimed at enhancing transparency and accountability in government expenditures. Key provisions require federal agencies to establish centralized technological systems for recording payments and justifying expenses, conduct comprehensive reviews of existing contracts to promote efficiency, and implement stricter controls on non-essential travel and credit card usage. Additionally, agencies are to manage real property more effectively and report on their financial activities. Several exemptions are outlined for specific sectors and situations.
+
+>Making America Healthy Again by Empowering Patients with Clear, Accurate, and Actionable Healthcare Pricing Information
+
+>This Executive Order aims to enhance healthcare price transparency in the United States by mandating that hospitals and health plans provide clear and accurate pricing information. It seeks to address long-standing issues of hidden costs in the healthcare system, empowering patients to make informed decisions about their care. The order emphasizes the need for enforcement of existing regulations and proposes additional measures to ensure standardized pricing across providers. The intent is to foster competition and reduce overall healthcare costs for consumers and employers, building upon previous efforts initiated during the first term.
+
+>Suspension of Security Clearances and Evaluation of Government Contracts
+
+>This Presidential Memorandum mandates the suspension of security clearances for specific individuals associated with Covington & Burling LLP, pending an investigation into their involvement in perceived judicial misconduct. It directs relevant federal agencies to assess and potentially terminate contracts with the law firm, aligning agency funding with the administration's priorities. The memorandum outlines the authority of various government officials to ensure compliance and reports that it does not establish enforceable rights against the U.S. or its entities.
+
+>Addressing the Threat to National Security From Imports of Copper
+
+>This Executive Order addresses concerns regarding the national security implications of relying on foreign imports of copper, a critical material vital for defense, infrastructure, and emerging technologies. It highlights the vulnerabilities in the U.S. copper supply chain, particularly the dominance of a single foreign producer in smelting and refining. The order directs the Secretary of Commerce to investigate the effects of copper imports on national security and to explore potential measures, such as tariffs or strategies to enhance domestic production and resilience in the copper supply chain.
+
+>America First Investment Policy
+
+>This Executive Order establishes an "America First Investment Policy" aimed at enhancing U.S. economic and national security by managing foreign investments, particularly from adversaries like China. It emphasizes preserving an open investment environment while protecting critical technologies and infrastructure. The order outlines measures to expedite investments from allied nations, implement restrictions on foreign investments linked to military and intelligence capabilities, and streamline regulatory processes. By promoting secure investment avenues, it seeks to bolster U.S. economic growth while safeguarding national interests.
+
+>Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties
+
+>This Presidential Memorandum addresses concerns regarding the increasing burden placed on American companies by foreign governments, particularly through discriminatory practices such as digital services taxes (DSTs). The memorandum outlines a policy framework for U.S. agencies to respond to these practices, which are seen as detrimental to U.S. economic interests and global competitiveness in the digital economy. It mandates investigations into foreign tax and regulatory practices that disproportionately impact U.S. companies and empowers the U.S. Trade Representative to take action to counter these measures.
+
+>ENDING TAXPAYER SUBSIDIZATION OF OPEN BORDERS
+
+>This Executive Order aims to reinforce federal laws prohibiting illegal aliens from receiving taxpayer-funded benefits, aligning with the principles of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996. It directs federal agencies to identify programs allowing such benefits and to enhance eligibility verification systems to exclude ineligible aliens. The order seeks to prevent public resources from incentivizing illegal immigration and ensures that aid remains focused on American citizens, including those with disabilities and veterans. Agencies are tasked with referring improper benefits to appropriate authorities.
+
+>Commencing the Reduction of the Federal Bureaucracy
+
+>This Executive Order aims to significantly reduce the size and functions of the federal bureaucracy, targeting specific governmental entities deemed unnecessary. Its objectives include minimizing government waste, reducing inflation, and enhancing accountability. The order requires the elimination of various non-statutory functions and the termination of certain federal advisory committees. Within specified timeframes, agency heads must report on compliance and identify further entities for potential elimination. The order emphasizes adherence to applicable laws during its implementation and revokes previous coordinating mandates.
+
+>Ensuring Lawful Governance and Implementing the President’s “Department of Government Efficiency” Regulatory Initiative
+
+>This Executive Order aims to streamline federal regulation by focusing on enforcing only those regulations that are clearly authorized by the Constitution and federal statutes. It mandates a review of existing regulations to identify and rescind those deemed unconstitutional or burdensome to business and innovation. Agencies are instructed to deprioritize enforcement of regulations not aligned with this order, thereby reducing federal overreach. The initiative seeks to promote efficiency and restore the constitutional balance of power within the executive branch.
+
+>80th Anniversary of the Battle of Iwo Jima
+
+>This Presidential Proclamation commemorates the 80th anniversary of the Battle of Iwo Jima, a significant event in World War II that began on February 19, 1945. The proclamation acknowledges the sacrifices made by U.S. Marines and Sailors during the grueling 36-day battle, highlighting both the heavy casualties and acts of valor, including 27 Medals of Honor awarded. It honors the courage of the troops and reflects on the long-term impact of the battle on American liberty and U.S.-Japan relations, encouraging Americans to remember those who served. February 19, 2025, is designated for this remembrance.
+
+>Ensuring Accountability for All Agencies
+
+>This Executive Order seeks to enhance accountability within the federal executive branch by ensuring greater presidential supervision of regulatory agencies. It mandates that all significant regulatory actions from executive departments and independent agencies undergo review by the Office of Information and Regulatory Affairs (OIRA) before being published. By tightening control over these agencies, the order aims to align their actions more closely with the President's policies and enhance transparency and coherence in regulatory practices, thereby fostering accountability to the American public.
+
+>Expanding Access to In Vitro Fertilization
+
+>This Executive Order aims to enhance access to in vitro fertilization (IVF) for couples facing infertility challenges. Recognizing the emotional and financial struggles associated with infertility, it emphasizes the need for more affordable IVF treatment options, which can be prohibitively expensive. The Order directs the Assistant to the President for Domestic Policy to propose recommendations to protect access to IVF and reduce costs within 90 days. The initiative reflects a commitment to facilitating family formation by addressing barriers to fertility treatments.
+
+>Radical Transparency About Wasteful Spending
+
+>This Presidential Memorandum addresses concerns regarding perceived wasteful spending by the U.S. Government on programs, contracts, and grants that do not align with national interests. It emphasizes the need for transparency, asserting that taxpayers deserve visibility into how their funds are utilized. The memorandum directs the heads of executive departments and agencies to publicly disclose detailed information about all terminated programs and contracts, as allowed by law, in order to promote accountability and foster public awareness of government expenditures.
+
+>President George Washington’s Birthday, 2025
+
+>This Presidential Proclamation establishes February 17, 2025, as a holiday to commemorate George Washington's Birthday. It honors Washington's significant role as the first President of the United States and his contributions to American independence and governance. The proclamation emphasizes Washington's legacy of public service, courage during the Revolutionary War, and his vision for the nation. It serves as a reminder of his devotion to the common good and calls upon citizens to uphold those values as the country strives for reform and unity.
+
+>Keeping Education Accessible and Ending Covid-19 Vaccine Mandates in Schools
+
+>This Executive Order aims to eliminate COVID-19 vaccine mandates in schools, asserting that such mandates infringe on personal freedoms and parental authority. It cites the low risk of serious illness from COVID-19 for children and young adults, advocating for informed decision-making by families. The order instructs the Secretary of Education to develop guidelines regarding these mandates and to present a plan to end coercive practices while detailing compliance measures for educational institutions. Federal funding is tied to adherence to these guidelines, aiming to protect students’ access to education without vaccine requirements.
+
+>Establishing the National Energy Dominance Council
+
+>This Executive Order establishes the National Energy Dominance Council within the Executive Office of the President to enhance U.S. energy production and leadership. The Council, chaired by the Secretary of the Interior, aims to advise the President on strategies to increase energy output while reducing regulatory barriers. It promotes the use of various energy resources, including fossil fuels and renewables, to bolster economic growth, job creation, and national security. Additionally, the Council will work to streamline government processes related to energy production and infrastructure development.
+
+>Establishing the President’s Make America Healthy Again Commission
+
+>This Executive Order establishes the President’s Make America Healthy Again Commission in response to alarming health trends in the United States, such as increasing chronic diseases, mental health disorders, and declining life expectancy compared to other developed nations. The Commission aims to address these issues by promoting healthier lifestyles, improving nutrition, and reevaluating medical practices. It will assess the scope of childhood chronic diseases, recommend strategies to combat them, and enhance the integrity of health research. Federal agencies will focus on reversing chronic disease rates and supporting effective health policies.
+
+>One Voice for America’s Foreign Relations
+
+>This Executive Order outlines the framework for the implementation of U.S. foreign policy, emphasizing the authority vested in the President by the Constitution. It mandates that all personnel involved in executing foreign policy must do so under the direct supervision of the President. The order allows for disciplinary measures against employees who fail to carry out the President's directives. It also emphasizes the need for reform in the Foreign Service, covering aspects like recruitment and performance evaluation to ensure alignment with the President's foreign policy agenda. The Secretary of State is tasked with implementing these reforms.
+
+>Adjusting Imports of Aluminum into The United States
+
+>This Presidential Proclamation addresses the ongoing national security concerns related to aluminum imports into the United States. Initially, a 10% tariff was imposed in 2018 due to findings that aluminum imports threatened national security. Despite this measure, imports have surged to levels deemed unacceptable, prompting a need for further tariff adjustments. The Proclamation indicates ongoing practices by foreign producers to circumvent tariffs, particularly through unfair trade practices and transshipment strategies. It seeks to enhance protection for domestic aluminum producers by possibly increasing tariffs and reducing exemptions, responding to persistent excess capacity in global aluminum production.
+
+>Implementing The President’s “Department of Government Efficiency” Workforce Optimization Initiative
+
+>This Executive Order initiates a transformation of the Federal bureaucracy aimed at enhancing efficiency and accountability. It establishes guidelines for workforce optimization, including a hiring ratio of one new hire for every four departures, and mandates agency-specific plans for new appointments in high-need areas. It also outlines procedures for potential reductions in force, excluding certain public safety and immigration enforcement roles. The order directs agencies to assess statutory requirements for their functions and emphasizes compliance with legal obligations for federal employees.
+
+>Adjusting Imports of Steel into The United States
+
+>This Presidential Proclamation addresses the adjustment of steel imports into the United States, rooted in national security concerns. Following a 2018 investigation by the Secretary of Commerce, it was determined that steel imports threatened U.S. national security, leading to the imposition of a 25 percent tariff on most countries' steel articles. The Proclamation allows for negotiations with allies to mitigate these threats and adjusts tariffs accordingly based on changing import levels from countries like Canada and Mexico, where surging imports have raised national security concerns once again.
+
+>Pausing Foreign Corrupt Practices Act Enforcement to Further American Economic and National Security
+
+>This Executive Order addresses concerns regarding the enforcement of the Foreign Corrupt Practices Act (FCPA), highlighting its perceived negative impact on U.S. economic competitiveness and national security. It states that FCPA enforcement has become overly expansive, hindering American businesses' ability to operate globally. The Executive Order instructs the Attorney General to pause new investigations and review existing ones for a 180-day period, with the aim of reevaluating guidelines to align enforcement with U.S. foreign policy objectives and optimize resource utilization.
+
+>Eliminating the Federal Executive Institute
+
+>This Executive Order mandates the elimination of the Federal Executive Institute, a program established over 50 years ago to provide leadership training for government officials. The order asserts that such training has resulted in bureaucratic expansion that does not serve the American public effectively. It aims to refocus government priorities on direct benefits to taxpayers and the nation’s interests. The Director of the Office of Personnel Management is tasked with overseeing the institute's dissolution, revoking previous executive directives related to its establishment.
+
+>Ending Procurement and Forced Use of Paper Straws
+
+>This Executive Order aims to end the use of paper straws by federal agencies, citing concerns over their practicality, cost, and potential health risks compared to plastic straws. It directs executive departments to cease the procurement of paper straws and to revert any policies favoring them over plastic straws. Within 45 days, a National Strategy will be developed to enforce this directive and address contractual relationships with states that have imposed bans on plastic straws. The order emphasizes the importance of legislative and budgetary compliance during implementation.
+
+>Gulf of America Day, 2025
+
+>This Presidential Proclamation designates February 9, 2025, as the first Gulf of America Day, marking the renaming of the Gulf of Mexico to the Gulf of America. This change, stemming from Executive Order 14172, aims to honor American heritage and reflect national pride. The proclamation encourages public officials and citizens to celebrate this new designation through various programs and ceremonies. The measure highlights the historical significance of the Gulf area and its lasting impact on American identity.
+
+>Addressing Egregious Actions of The Republic of South Africa
+
+>This Executive Order addresses perceived violations of citizens' rights in South Africa, specifically the Expropriation Act 13 of 2024, which allows the government to seize property from ethnic minority Afrikaners without compensation. The order outlines U.S. policy to halt aid to South Africa while encouraging the resettlement of Afrikaner refugees fleeing government-sponsored discrimination. It directs U.S. agencies to cease assistance programs and prioritize humanitarian relief for affected individuals, asserting that continued injustices will lead to U.S. withdrawal of support.
+
+>Establishment of The White House Faith Office
+
+>This Executive Order establishes the White House Faith Office within the Executive Office of the President to empower faith-based organizations, community entities, and houses of worship in their efforts to support American families and communities. The Office is tasked with ensuring these entities can compete for federal funding, enhance their service capacity, and protect religious liberty. It also aims to facilitate collaboration between faith-based organizations and the federal government while promoting innovative initiatives that address various social issues.
+
+>Protecting Second Amendment Rights
+
+>This Executive Order aims to reinforce and protect the Second Amendment rights of American citizens. It mandates the Attorney General to review all relevant actions taken by executive agencies since January 2021 to identify any measures that may infringe upon these rights. The review will focus on regulations, policies, and classifications related to firearms and related litigation. The Attorney General is required to propose a plan of action within 30 days to address any infringements, which will subsequently be finalized for implementation. The order emphasizes the importance of safeguarding these rights as foundational to American liberty.
+
+>Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People’s Republic of China
+
+>This Executive Order amends a prior directive aimed at addressing the synthetic opioid supply chain originating from China. It updates provisions concerning duty-free treatment for specific articles, allowing such treatment to cease if the Secretary of Commerce notifies that sufficient systems for processing and collecting applicable tariffs are in place. The order reaffirms existing authorities and clarifies that it does not create enforceable rights against the U.S. government. It underscores efforts to tackle the opioid crisis through economic measures.
+
+>Memorandum for the Heads of Executive Departments and Agencies
+
+>This Presidential Memorandum addresses the funding of Nongovernmental Organizations (NGOs) by the United States Government. It highlights concerns that taxpayer money may be supporting NGOs that counter American security and interests. The memorandum instructs heads of executive departments and agencies to evaluate their funding to NGOs and ensure that future allocations align with U.S. national interests and the administration's goals. It sets a directive for agencies to consider relevant laws and regulations while reviewing these funding decisions, marking a shift in approach to NGO financial support.
+
+>Imposing Sanctions on the International Criminal Court
+
+>This Executive Order imposes sanctions on the International Criminal Court (ICC) following its actions against the United States and Israel, claiming these actions are illegitimate and harmful. It declares a national emergency, asserting that ICC's investigations threaten U.S. national security and foreign policy. The order blocks property of those associated with the ICC's actions and suspends entry to the U.S. for ICC officials and their families. It requires a report on additional individuals for potential sanctions and prohibits any transactions that evade its provisions.
+
+>Eradicating Anti-Christian Bias
+
+>This Executive Order aims to address perceived anti-Christian bias in government actions and policies. It establishes a Task Force within the Department of Justice, chaired by the Attorney General, to review prior administration practices for any unlawful targeting of Christians. The Task Force is tasked with recommending revocations of such policies, enhancing protections for religious liberties, and reporting its findings to the President. This initiative stems from claims of increased hostility towards Christians and alleged negligence in addressing violence against Christian institutions.
+
+>Keeping Men Out of Women’s Sports
+
+>This Executive Order aims to protect opportunities for women and girls in sports by prohibiting biological males from competing in women's sports categories. It emphasizes adherence to Title IX, mandating federal funding rescindments for educational institutions that violate this principle. The order highlights concerns about safety, fairness, and dignity for female athletes. It mandates enforcement actions against institutions that permit male participation, and also seeks to influence international sports policies to establish clear sex-based eligibility criteria, promoting the interests of female athletes.
+
+>Withdrawing the United States from and Ending Funding to Certain United Nations Organizations and Reviewing United States Support to All International Organizations
+
+>This Executive Order refocuses U.S. involvement in international organizations, specifically targeting certain United Nations bodies. It mandates a withdrawal of U.S. participation and funding from the UN Human Rights Council (UNHRC), the UN Educational, Scientific, and Cultural Organization (UNESCO), and the UN Relief and Works Agency for Palestine Refugees (UNRWA). The order cites concerns over anti-American and anti-Israel actions within these groups and outlines a review process to assess U.S. support for all international organizations, aiming to align them better with American interests.
+
+>National Security Presidential Memorandum/NSPM-2
+
+>This Presidential Memorandum outlines a comprehensive strategy for the United States to impose maximum pressure on Iran, aiming to deny it access to nuclear weapons, disrupt its military capabilities, and counter its support for terrorism. It delineates specific actions for various government departments, including the imposition of heightened sanctions, diplomatic efforts to isolate Iran internationally, and legal measures to investigate Iranian operations in the U.S. The Memorandum reflects concerns about Iran's hostile activities, its nuclear program, and its role as a state sponsor of terrorism.
+
+>Progress on the Situation at Our Northern Border
+
+>This Executive Order addresses concerns regarding the failure of Canada to effectively combat drug trafficking and related crimes contributing to security threats in the U.S. Initially, tariffs were imposed on Canadian goods to mitigate these issues. However, recognizing Canada's recent cooperative efforts, the order pauses the implementation of additional tariffs until March 4, 2025. During this pause, an assessment will continue to evaluate Canada's actions in addressing the crisis, with potential reinstatement of tariffs if the situation deteriorates.
+
+>A Plan for Establishing a United States Sovereign Wealth Fund
+
+>This Executive Order establishes a framework for creating a United States Sovereign Wealth Fund aimed at enhancing the long-term financial health and global leadership of the nation. It emphasizes the importance of managing national wealth for the benefit of American citizens, with goals of improving fiscal sustainability, reducing tax burdens on families and small businesses, and ensuring economic security for future generations. The order mandates the Secretaries of the Treasury and Commerce to develop a detailed plan within 90 days, addressing funding mechanisms, investment strategies, and governance.
+
+>Progress on the Situation At Our Southern Border
+
+>This Executive Order addresses concerns about illegal migration and drug trafficking from Mexico to the United States, which were deemed to pose a significant threat to national security and the economy. It identifies actions taken by the Mexican government to mitigate these issues and pauses the implementation of a previously proposed 25% tariff on goods from Mexico until March 4, 2025. This pause allows for further assessment of Mexico's efforts. The order includes provisions for potential reimplementation of tariffs if conditions do not improve.
+
+>Imposing Duties to Address the Flow of Illicit Drugs Across Our National Border
+
+>This Executive Order addresses the increasing flow of illicit drugs, particularly opioids, across the U.S.-Canada border, declaring it a national emergency. It cites Canada’s insufficient efforts to combat drug trafficking and highlights the detrimental impact of such drugs on public health and safety in the U.S. To combat this, the order imposes a 25% ad valorem tariff on Canadian imports, effective February 4, 2025, with a reduced tariff of 10% on energy products. The measure aims to enhance U.S. border security and public health by holding Canada accountable for drug importation issues.
+
+>Imposing Duties to Address the Synthetic Opioid Supply Chain in the People’s Republic of China
+
+>This Executive Order addresses the national emergency posed by the influx of synthetic opioids, particularly fentanyl, into the United States, largely originating from chemical suppliers in the People's Republic of China (PRC). It raises tariffs by 10% on PRC products to counter the ongoing crisis linked to opioid overdoses, which claim approximately 75,000 American lives annually. The order emphasizes the PRC's failure to control the export of precursor chemicals and to combat associated transnational criminal organizations, necessitating immediate regulatory action to protect public health and national security.
+
+>Imposing Duties to Address the Situation at Our Southern Border
+
+>This Executive Order addresses concerns related to the increased influx of illegal immigration and illicit drugs, primarily stemming from Mexico. It declares a national emergency, expanding on a prior proclamation, by highlighting the collaboration between Mexican drug trafficking organizations and transnational cartels that contribute to crime and addiction issues in the U.S. In response, the order imposes a 25% tariff on products from Mexico, effective February 2025, emphasizing the lack of sufficient action by Mexico to combat these challenges. It establishes ongoing consultations among various government officials to assess Mexico's efforts in addressing these issues.
+
+>Limiting Lame-Duck Collective Bargaining Agreements That Improperly Attempt to Constrain the New President
+
+>This Executive Order addresses the concerns regarding collective bargaining agreements (CBAs) finalized in the last 30 days of a presidential administration. It prohibits federal agencies from creating new CBAs, making substantive changes to existing ones, or extending their durations during this period, arguing that such agreements can unduly restrict the incoming president's authority and ability to implement new policies. The order emphasizes the principle of democratic self-governance, asserting that last-minute CBAs can impede the electoral mandate and the proper functioning of the executive branch.
+
+>Immediate Assessment of Aviation Safety
+
+>This Presidential Memorandum addresses the need for an immediate assessment of aviation safety following a tragic collision between a commercial aircraft and a military helicopter near Ronald Reagan Washington National Airport on January 29, 2025. The document highlights a perceived decline in aviation safety standards and personnel qualifications at the Federal Aviation Administration (FAA) due to hiring practices and policies implemented during previous administrations. It directs the Secretary of Transportation and the FAA Administrator to review past hiring decisions and safety protocols, and to take corrective actions to enhance aviation safety and restore merit-based hiring practices.
+
+>Additional Measures to Combat Anti-Semitism
+
+>This Executive Order aims to combat anti-Semitism in the United States through enhanced legal measures and responses, particularly in educational settings. It reaffirms a previous Executive Order and addresses a significant rise in anti-Semitic incidents following the October 7, 2023, attacks in Israel. Agencies are directed to report on existing civil and criminal tools to mitigate campus anti-Semitism, including an assessment of complaints and violations. It emphasizes the government's obligation to protect Jewish students and foster a safer educational environment by utilizing various legal frameworks.
+
+>Expanding Migrant Operations Center at Naval Station Guantanamo Bay to Full Capacity
+
+>This Presidential Memorandum directs the Secretaries of Defense and Homeland Security to expand the Migrant Operations Center at Naval Station Guantanamo Bay to its full capacity. The initiative aims to increase detention space for high-priority criminal aliens who are unlawfully present in the U.S. and to support corresponding immigration enforcement requirements. The memorandum addresses concerns regarding border security, criminal cartels, and national sovereignty, while clarifying that it does not establish any enforceable rights against the U.S. government or its agencies.
+
+>Celebrating America’s 250th Birthday
+
+>This Executive Order establishes a comprehensive plan for celebrating the 250th anniversary of American Independence on July 4, 2026. It creates the White House Task Force on Celebrating America’s 250th Birthday, which will be chaired by the President and includes various Cabinet members and officials. The Task Force is responsible for organizing an extraordinary commemoration, coordinating with different agencies, and reporting on their planning activities. Additionally, it reinstates previous orders regarding the National Garden of American Heroes and protections for monuments against vandalism.
+
+>Ending Radical Indoctrination in K-12 Schooling
+
+>This Executive Order addresses concerns around the ideological content of K-12 education in the United States. It asserts that some schools are indoctrinating students with what it labels "radical, anti-American ideologies," while diminishing parental oversight. The order mandates the development of a strategy to eliminate federal funding for educational practices deemed discriminatory or ideologically biased, specifically against gender and equity ideologies. It emphasizes protecting parental rights in education and seeks to ensure compliance with federal laws related to discrimination and educational transparency.
+
+>Expanding Educational Freedom and Opportunity for Families
+
+>This Executive Order aims to enhance educational freedom and opportunities for families by promoting parental choice in education. It acknowledges issues in the current public K-12 education system and highlights the benefits of educational choice, including increased competition and improved student outcomes. The Order directs various federal departments to develop guidance and plans to support state-level initiatives, particularly for low-income families and military families, to access educational alternatives. It emphasizes the importance of enabling families to select the best educational settings for their children.
+
+>Protecting Children from Chemical and Surgical Mutilation
+
+>This Executive Order establishes a federal policy aimed at preventing what is characterized as "chemical and surgical mutilation" of children under 19. It prohibits federal funding for gender transition procedures and mandates the review and rescission of policies based on certain guidelines from medical associations. It also directs various agencies to cease support for these medical interventions, excludes such procedures from insurance coverage, and emphasizes enforcement against practices defined as harmful. The order seeks to prioritize child welfare and public health regarding gender identity issues.
+
+>Reinstating Service Members Discharged Under the Military’s COVID-19 Vaccination Mandate
+
+>This Executive Order aims to provide reinstatement opportunities for military members discharged due to refusal to comply with the COVID-19 vaccination mandate. Initially mandated by the Secretary of Defense in August 2021 and later rescinded in January 2023, the order addresses perceived unjust discharges and seeks to rectify these by allowing affected service members to return to their previous ranks and receive back pay, benefits, and compensation. Additionally, it establishes procedures for re-entry for those who voluntarily left service to avoid vaccination.
+
+>Protecting the Meaning and Value of American Citizenship
+
+>The executive order clarifies U.S. citizenship eligibility, specifying that individuals born in the U.S. to unlawful or temporarily lawful foreign parents (whose fathers are not U.S. citizens or permanent residents) do not automatically receive citizenship. It directs federal agencies to ensure their policies align with this stance and provides a framework for enforcement and implementation. The order takes effect 30 days after its issue.
+
+
+THEWHITEHOUSE
+>On Earth Day, We Finally Have a President Who Follows Science
+
+>Text of a Letter from the President to the Speaker of the House of Representatives and the President Pro Tempore of the Senate
+
+>Democrats Continue Apology Tour for Deported Illegal Immigrant Gang Member
+
+>Honoring the Memory of His Holiness Pope Francis
+
+>Week 13 Wins: President Trump’s Relentless Pursuit of Prosperity, Opportunity
+
+>Readout of President Donald J. Trump’s Call with Prime Minister Starmer of the United Kingdom
+
+>Fact Sheet: President Donald J. Trump Creates New Federal Employee Category to Enhance Accountability
+
+>Presidential Message on the 250th Anniversary of Paul Revere’s Midnight Ride, 2025
+
+>First Lady Melania Trump Previews 2025 White House Easter Egg Roll Activities
+
+>Trump Administration Advances First Wave of Critical Mineral Production Projects
+
+>United States – Italy Joint Leaders’ Statement
+
+>Restoring American Seafood Competitiveness
+
+>250th Anniversary of the Battles of Lexington and Concord
+
+>Extension of Hiring Freeze
+
+>Unleashing American Commercial Fishing in the Pacific
+
+
+TRUMPTWEETS
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+>1:01 PM · Apr 22, 2025 - Deeply disturbing news out of Kashmir. The United States stands strong with India against Terrorism. We pray for the souls of those lost, and for the recovery of the injured. Prime Minister Modi, and the incredible people of India, have our full support and deepest sympathies. Our hearts are with you all!
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+>11:10 AM · Apr 22, 2025 - I’ve just spoken to Prime Minister of Israel, Bibi Netanyahu, relative to numerous subjects including Trade, Iran, etc. The call went very well—We are on the same side of every issue.
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+>5:08 PM · Apr 21, 2025 - I’m doing what I was elected to do, remove criminals from our Country, but the Courts don’t seem to want me to do that. My team is fantastic, doing an incredible job, however, they are being stymied at every turn by even the U.S. Supreme Court, which I have such great respect for, but which seemingly doesn’t want me to send violent criminals and terrorists back to Venezuela, or any other Country, for that matter — People that came here illegally! The Courts are intimidated by the Radical Left who are, “playing the Ref.” Great Supreme Court Justice Samuel Alito correctly wants to dissolve the pause on deportations. He is right on this! If we don’t get these criminals out of our Country, we are not going to have a Country any longer. We cannot give everyone a trial, because to do so would take, without exaggeration, 200 years. We would need hundreds of thousands of trials for the hundreds of thousands of Illegals we are sending out of the Country. Such a thing is not possible to do. What a ridiculous situation we are in. MAKE AMERICA GREAT AGAIN!
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+>11:27 AM · Apr 21, 2025 - As a mark of respect for the memory of His Holiness Pope Francis, by the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, I hereby order that the flag of the United States shall be flown at half-staff at the White House and upon all public buildings and grounds, at all military posts and naval stations, and on all naval vessels of the Federal Government in the District of Columbia and throughout the United States and its Territories and possessions until sunset, on the day of interment. I also direct that the flag shall be flown at half-staff for the same length of time at all United States embassies, legations, consular offices, and other facilities abroad, including all military facilities and naval vessels and stations.
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+>9:41 AM · Apr 21, 2025 - “Preemptive Cuts” in Interest Rates are being called for by many. With Energy Costs way down, food prices (including Biden’s egg disaster!) substantially lower, and most other “things” trending down, there is virtually No Inflation. With these costs trending so nicely downward, just what I predicted they would do, there can almost be no inflation, but there can be a SLOWING of the economy unless Mr. Too Late, a major loser, lowers interest rates, NOW. Europe has already “lowered” seven times. Powell has always been “To Late,” except when it came to the Election period when he lowered in order to help Sleepy Joe Biden, later Kamala, get elected. How did that work out?
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+1. Currency Manipulation2. VATs which act as tariffs and export subsidies3. Dumping Below Cost4. Export Subsidies and Other Govt. Subsidies5. Protective Agricultural Standards (e.g., no genetically engineered corn in EU)6. Protective Technical Standards (Japan’s bowling ball test)7. Counterfeiting, Piracy, and IP Theft (Over $1 trillion a year)8. Transshipping to EVADE Tariffs!!!
+
+>5:13 PM · Apr 20, 2025 - NON-TARIFF CHEATING:
+
+>5:12 PM · Apr 20, 2025 - Since our announcement of LIBERATION DAY, many World Leaders and Business Executives have come to me asking for relief from Tariffs. It’s good to see that the World knows we are serious, because WE ARE! They must right the wrongs of decades of abuse, but it won’t be easy for them. We must rebuild the Wealth of our Great Country, and create true RECIPROCITY. But for those who want the easiest path: Come to America, and build in America!
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+>4:15 PM · Apr 20, 2025 - HOPEFULLY RUSSIA AMD UKRAINE WILL MAKE A DEAL THIS WEEK. BOTH WILL THEN START TO DO BIG BUSINESS WITH THE UNITED STATES OF AMERICA, WHICH IS THRIVING, AND MAKE A FORTUNE!
+
+>8:46 AM · Apr 20, 2025 - Happy Easter to all, including the Radical Left Lunatics who are fighting and scheming so hard to bring Murderers, Drug Lords, Dangerous Prisoners, the Mentally Insane, and well known MS-13 Gang Members and Wife Beaters, back into our Country. Happy Easter also to the WEAK and INEFFECTIVE Judges and Law Enforcement Officials who are allowing this sinister attack on our Nation to continue, an attack so violent that it will never be forgotten! Sleepy Joe Biden purposefully allowed Millions of CRIMINALS to enter our Country, totally unvetted and unchecked, through an Open Borders Policy that will go down in history as the single most calamitous act ever perpetrated upon America. He was, by far, our WORST and most Incompetent President, a man who had absolutely no idea what he was doing -- But to him, and to the person that ran and manipulated the Auto Pen (perhaps our REAL President!), and to all of the people who CHEATED in the 2020 Presidential Election in order to get this highly destructive Moron Elected, I wish you, with great love, sincerity, and affection, a very Happy Easter!!!
+
+>3:32 PM · Apr 18, 2025 - Following my Day One Executive Order, the Office of Personnel Management will be issuing new Civil Service Regulations for career government employees. Moving forward, career government employees, working on policy matters, will be classified as “Schedule Policy/Career,” and will be held to the highest standards of conduct and performance. If these government workers refuse to advance the policy interests of the President, or are engaging in corrupt behavior, they should no longer have a job. This is common sense, and will allow the federal government to finally be “run like a business.” We must root out corruption and implement accountability in our Federal Workforce!
+
+>6:17 PM · Apr 17, 2025 - I am proud to announce the formation of my revamped Homeland Security Advisory Council (HSAC), which is comprised of Top Experts in their field, who are highly respected by their peers. It is a big honor to serve on HSAC, and I know the new Members, South Carolina Governor Henry McMaster, Mark Levin, Bo Dietl, and Joseph Gruters, will do an incredible job. Under Secretary of Homeland Security Kristi Noem’s leadership, HSAC will work hard on developing new Policies and Strategies that will help us secure our Border, deport Illegal Criminal Thugs, stop the flow of Fentanyl and other illegal drugs that are killing our Citizens, and MAKE AMERICA SAFE AGAIN. Congratulations to all!
+
+>8:02 AM · Apr 17, 2025 - Had a very productive call with the President of Mexico yesterday. Likewise, I met with the highest level Japanese Trade Representatives. It was a very productive meeting. Every Nation, including China, wants to meet! Today, Italy!
+
+>6:12 AM · Apr 17, 2025 - The ECB is expected to cut interest rates for the 7th time, and yet, “Too Late” Jerome Powell of the Fed, who is always TOO LATE AND WRONG, yesterday issued a report which was another, and typical, complete “mess!” Oil prices are down, groceries (even eggs!) are down, and the USA is getting RICH ON TARIFFS. Too Late should have lowered Interest Rates, like the ECB, long ago, but he should certainly lower them now. Powell’s termination cannot come fast enough!
+
+>5:56 PM · Apr 16, 2025 - Can you believe it? A Judge ruled against us on 530,000 Illegal Migrants (that Joe Biden flew over the Border in his program to transport Illegals into the Country by airplane) saying that they can’t be looked at as a group, but that each case has to be tried individually. Based on the Court System, that would take approximately 100 years. What is going on with our Courts? They are totally OUT OF CONTROL. They seem to hate “TRUMP” so much, that anything goes! We are trying to bring our Country back from the destruction caused by the Democrats and Crooked Joe Biden. I won on a Policy of Common Sense, and what Common Sense do we have when we have to have 530,000 trials? This Radicalized Judge is saying that Sleepy Joe Biden can fly more than half a million Illegals into America, IN ONE DAY, but we have to hold many years of long and tedious trials to fly each and every one of them back home. Where is the JUSTICE here???
+
+>6:18 AM · Apr 16, 2025 - Japan is coming in today to negotiate Tariffs, the cost of military support, and “TRADE FAIRNESS.” I will attend the meeting, along with Treasury & Commerce Secretaries. Hopefully something can be worked out which is good (GREAT!) for Japan and the USA!
+
+>11:31 PM · Apr 15, 2025 - The United States is taking in RECORD NUMBERS in Tariffs, with the cost of almost all products going down, including gasoline, groceries, and just about everything else. Likewise, INFLATION is down. Promises Made, Promises Kept!
+
+>10:46 AM · Apr 15, 2025 - Our farmers are GREAT, but because of their GREATNESS, they are always put on the Front Line with our adversaries, such as China, whenever there is a Trade negotiation or, in this case, a Trade War. The same thing happened in my First Term. China was brutal to our Farmers, I these Patriots to just hold on, and a great trade deal was made. I rewarded our farmers with a payment of $28 Billion Dollars, all through the China deal. It was a great transaction for the USA, until Crooked Joe Biden came in and didn’t enforce it. China largely reneged on the deal (although they behaved during the Trump Administration), only buying a portion of what they agreed to buy. They had ZERO respect for the Crooked Biden Administration, and who can blame them for that? Interestingly, they just reneged on the big Boeing deal, saying that they will “not take possession” of fully committed to aircraft. The USA will PROTECT OUR FARMERS!!!
+
+>10:09 AM · Apr 15, 2025 - Perhaps Harvard should lose its Tax Exempt Status and be Taxed as a Political Entity if it keeps pushing political, ideological, and terrorist inspired/supporting “Sickness?” Remember, Tax Exempt Status is totally contingent on acting in the PUBLIC INTEREST!
+
+>7:08 PM · Apr 14, 2025 - Moments ago, the Illegal Criminal, who was allowed into our Country by Crooked Joe Biden, was convicted of the heinous murder of Rachel Morin. Rachel was a beautiful mother of five from Maryland, and her life was taken at the hands of a monster who should have NEVER been here in the first place. The Fake News should be focusing on the beautiful life and tragic death of this Maryland Mother, rather than the so-called “Maryland Father,” who is actually an MS-13 Gang Member and Foreign Terrorist from El Salvador. We will never forget Rachel Morin, and are committed to protecting women like her across our Country. We will deport Illegal Murderers, Rapists, and Criminals. MAKE AMERICA GREAT AGAIN!
+
+>10:12 AM · Apr 14, 2025 - The War between Russia and Ukraine is Biden’s war, not mine. I just got here, and for four years during my term, had no problem in preventing it from happening. President Putin, and everyone else, respected your President! I HAD NOTHING TO DO WITH THIS WAR, BUT AM WORKING DILIGENTLY TO GET THE DEATH AND DESTRUCTION TO STOP. If the 2020 Presidential Election was not RIGGED, and it was, in so many ways, that horrible War would never have happened. President Zelenskyy and Crooked Joe Biden did an absolutely horrible job in allowing this travesty to begin. There were so many ways of preventing it from ever starting. But that is the past. Now we have to get it to STOP, AND FAST. SO SAD!
+
+>10:08 PM · Apr 13, 2025 - We look forward to seeing President Bukele, of El Salvador, tomorrow in the White House!
+
+>9:13 PM · Apr 13, 2025 - Almost every week, 60 Minutes, which is being sued for Billions of Dollars for the fraud they committed in the 2024 Presidential Election with their Interview of Failed Presidential Candidate Kamala Harris, mentions the name “TRUMP” in a derogatory and defamatory way, but this Weekend’s “BROADCAST” tops them all. They did not one, but TWO, major stories on “TRUMP,” one having to do with Ukraine, which I say is a War that would never have happened if the 2020 Election had not been RIGGED, in other words, if I were President and, the other story was having to do with Greenland, casting our Country, as led by me, falsely, inaccurately, and fraudulently. I am so honored to be suing 60 Minutes, CBS Fake News, and Paramount, over their fraudulent, beyond recognition, reporting. They did everything possible to illegally elect Kamala, including completely and corruptly changing major answers to Interview questions, but it just didn’t work for them. They are not a “News Show,” but a dishonest Political Operative simply disguised as “News,” and must be responsible for what they have done, and are doing. They should lose their license! Hopefully, the Federal Communications Commission (FCC), as headed by its Highly Respected Chairman, Brendan Carr, will impose the maximum fines and punishment, which is substantial, for their unlawful and illegal behavior. CBS is out of control, at levels never seen before, and they should pay a big price for this. MAKE AMERICA GREAT AGAIN!
+
+As we approach this Joyous Easter Sunday, I want to wish Christians everywhere a Happy and very Blessed Holiday. America is a Nation of Believers. We need God, we want God and, with His help, we will make our Nation Stronger, Safer, Greater, more Prosperous, and more United than ever before. Thank you, and HAPPY EASTER!
+
+Through the pain and sacrifice of Jesus on the Cross, we saw God’s boundless Love and Devotion to all Humanity and, in that moment of His Resurrection, History was forever changed with the Promise of Everlasting Life.
+
+>8:53 PM · Apr 13, 2025 - This Holy Week, Christians around the World remember the Crucifixion of God’s Only Begotten Son, our Lord and Savior, Jesus Christ and, on Easter Sunday, we celebrate His Glorious Resurrection and proclaim, as Christians have done for nearly 2,000 years, “HE IS RISEN!”
+
+>3:38 PM · Apr 13, 2025 - Time for the terrorists to hide, but it won’t do them any good. Our Warfighters, the Greatest the World has ever seen, will find them, and bring them to swift Justice. I just got rid of Joe Biden’s dangerous red tape, and empowered our Warfighters, once again, just like I did against our fight with ISIS, who were completely obliterated in three weeks under General Daniel Caine, our new Chairman of the Joint Chiefs of Staff. We will support the Somali People, who should not allow the Houthis to embed (which they are trying to do!), to end terrorism, and bring prosperity to their Country.
+
+>3:36 PM · Apr 13, 2025 - NOBODY is getting “off the hook” for the unfair Trade Balances, and Non Monetary Tariff Barriers, that other Countries have used against us, especially not China which, by far, treats us the worst! There was no Tariff “exception” announced on Friday. These products are subject to the existing 20% Fentanyl Tariffs, and they are just moving to a different Tariff “bucket.” The Fake News knows this, but refuses to report it. We are taking a look at Semiconductors and the WHOLE ELECTRONICS SUPPLY CHAIN in the upcoming National Security Tariff Investigations. What has been exposed is that we need to make products in the United States, and that we will not be held hostage by other Countries, especially hostile trading Nations like China, which will do everything within its power to disrespect the American People. We also cannot let them continue to abuse us on Trade, like they have for decades, THOSE DAYS ARE OVER! The Golden Age of America, which includes the upcoming Tax and Regulation Cuts, a substantial amount of which was just approved by the House and Senate, will mean more and better paying Jobs, making products in our Nation, and treating other Countries, in particular China, the same way they have treated us. The bottom line is that our Country will be bigger, better, and stronger than ever before. We will, MAKE AMERICA GREAT AGAIN!
+
+>6:35 PM · Apr 12, 2025 - Looking forward to seeing President Bukele, of El Salvador, on Monday! Our Nations are working closely together to eradicate terrorist organizations, and build a future of Prosperity. President Bukele has graciously accepted into his Nation’s custody some of the most violent alien enemies of the World and, in particular, the United States. These barbarians are now in the sole custody of El Salvador, a proud and sovereign Nation, and their future is up to President B and his Government. They will never threaten or menace our Citizens again!
+
+4. Concurrent with these agreements, the EEOC has withdrawn the March 17, 2025 letters to the Law Firms, and will not pursue any claims related to those issues….
+
+3. The Law Firms affirm that they will not deny representation to clients, such as members of politically disenfranchised groups and Government Officials, employees, and advisors, who have not historically received Legal representation from major National Law Firms, including in pro bono matters, and in support of non-profits, because of the personal political views of individual lawyers.
+
+2. The Law Firms affirm their commitment to Merit-Based Hiring, Promotion, and Retention. Accordingly, the Law Firms will not engage in illegal DEI discrimination and preferences. The Law Firms affirm that it is their policy to give Fair and Equal consideration to Job Candidates, irrespective of their political beliefs, including Candidates who have served in the Trump Administration, and any other Republican or Democrat Administration. The Law Firms will engage outside counsel to advise the Law Firms in confirming their employment practices are fully compliant with Law, including, but not limited to, Anti-Discrimination Laws.
+
+The Law Firms and their commitments are: Kirkland & Ellis LLP, Allen Overy Shearman Sterling US LLP, Simpson Thacher & Bartlett LLP, and Latham & Watkins LLP: $125 Million Dollars each.
+
+1. The Law Firms will provide an aggregate total of at least $500 Million Dollars in pro bono and other free Legal services, during the Trump Administration and beyond, in the respective amounts set forth below, to causes that President Trump and the Law Firms both support and agree to work on, including in the following areas: Assisting Veterans and other Public Servants, including, among others, members of the Military, Gold Star families, Law Enforcement, and First Responders; ensuring fairness in our Justice System; and combatting Antisemitism. The Law Firms will take on a wide range of pro bono matters that represent the full political spectrum, including Conservative ideals.
+
+>12:21 PM · Apr 11, 2025 - Today, President Donald J. Trump and Kirkland & Ellis LLP, Allen Overy Shearman Sterling US LLP, Simpson Thacher & Bartlett LLP, and Latham & Watkins LLP (the “Law Firms”) announce the following agreement regarding a series of actions to be taken by the Law Firms:
+
