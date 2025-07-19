@@ -27,4 +27,4 @@ Global News Report (GNR):
     - BBC
     - Times Of Israel
 
-More coming soon! :)
+More coming soon! :) <3
